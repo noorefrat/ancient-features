@@ -450,7 +450,7 @@ ggsave("mapgenderless.pdf", width = 15, height = 10, units = c("cm"), dpi = 600)
 ##########################################################################################################################################
 #Synthesis
 ##########################################################################################################################################
-gg.syn <- project_data(df = synthesis %>% filter(area %in% c("Africa", "Eurasia", "ANEA")) ,
+syn.g <- project_data(df = synthesis %>% filter(area %in% c("Africa", "Eurasia", "ANEA")) ,
                        xmin = -20,
                        xmax = 200,
                        ymin = -35,
@@ -788,7 +788,7 @@ syn.d <- gg.syn.d$base_plot +
   scale_shape_manual(values=c(17, 15, 16), name= NULL) +
   scale_colour_gradient2(breaks = c(0,6,16), labels = c("0", "median", "16"),
                          midpoint = median(syn.g$data$value),
-                         low = 'blue', mid = 'grey', high = 'red', name = NULL) + 
+                         low = 'blue', mid = 'lightgrey', high = 'red', name = NULL) + 
   theme(panel.grid = element_blank(), legend.direction = "horizontal", legend.position = "bottom", legend.text = element_text(size = 8), plot.title = element_text(family = "Helvetica", face = "bold", size = (8), hjust = 0.5)
   ) +
   labs(title = "Synthesis")+
