@@ -1,0 +1,36 @@
+﻿Language,Glottocode,Macrocontinent,MajorBranch,LocalRegion,Latitude,Longitude,Optative,Genderless,Ergative,Synthesis
+Old Akkadian,akka1240,ANEA,East Semitic,ancient,33.1,44.1,TRUE,FALSE,FALSE,4
+Old Assyrian,akka1240,ANEA,East Semitic,ancient,35.88,40.95,TRUE,FALSE,FALSE,5
+Middle Assyrian,akka1240,ANEA,East Semitic,ancient,36.21,41.15,TRUE,FALSE,FALSE,5
+Neo-Assyrian,akka1240,ANEA,East Semitic,ancient,36.31,41.05,TRUE,FALSE,FALSE,4
+Old Babylonian,akka1240,ANEA,East Semitic,ancient,32.61,44.61,TRUE,FALSE,FALSE,4
+Middle Babylonian,akka1240,ANEA,East Semitic,ancient,32.75,44.51,TRUE,FALSE,FALSE,4
+Neo-Babylonian,akka1240,ANEA,East Semitic,ancient,32.5,44.87,TRUE,FALSE,FALSE,4
+Eblaite,ebla1238,ANEA,East Semitic,ancient,35.8,36.8,TRUE,FALSE,FALSE,4
+Dumaitic North Arabian,duma1255,ANEA,Central Semitic,ancient,29.8,39.89,NA,NA,NA,3
+Hasaitic North Arabian,hasa1249,ANEA,Central Semitic,ancient,25.79,49.27,NA,NA,NA,3
+Arabic,arab1395,ANEA,Central Semitic,ancient,29.63,33.12,FALSE,FALSE,FALSE,4
+Old Aramaic,olda1246,ANEA,Northwest Semitic,ancient,32.84,37,NA,FALSE,FALSE,4
+Samal,sama1317,ANEA,Northwest Semitic,ancient,37.1,36.67,NA,FALSE,FALSE,4
+Imperial Aramaic,impe1235,ANEA,Northwest Semitic,ancient,33.91,42.19,TRUE,FALSE,FALSE,4
+Middle Aramaic,midd1366,ANEA,Northwest Semitic,ancient,32.28,35.2,NA,FALSE,FALSE,4
+Jewish Palestinian Aramaic,pale1261,ANEA,Northwest Semitic,ancient,32.28,35.2,NA,FALSE,FALSE,4
+Jewish Babylonian Aramaic,jewi1240,ANEA,Northwest Semitic,ancient,32.27,44.24,FALSE,FALSE,FALSE,4
+Syriac,clas1252,ANEA,Northwest Semitic,ancient,37.11,42.14,FALSE,FALSE,FALSE,4
+Mandaic Aramaic,clas1253,ANEA,Northwest Semitic,ancient,36.12,49.57,TRUE,FALSE,FALSE,4
+Earlier Egyptian,egyp1246,ANEA,Egyptian,ancient,28.38,30.83,TRUE,FALSE,FALSE,6
+Middle Egyptian,egyp1246,ANEA,Egyptian,ancient,28.41,30.93,TRUE,FALSE,FALSE,4
+Later Egyptian,copt1239,ANEA,Egyptian,ancient,29.47,31.21,TRUE,FALSE,FALSE,6
+Coptic,copt1239,ANEA,Egyptian,ancient,29.4,31,TRUE,FALSE,FALSE,4
+Hittite,hitt1242,ANEA,Indo-European,ancient,40,35,FALSE,FALSE,FALSE,6
+Luwian,luvi1235,ANEA,Indo-European,ancient,38,36,TRUE,FALSE,FALSE,5
+Phoenician,phoe1239,ANEA,Northwest Semitic,ancient,34.12,35.65,TRUE,FALSE,FALSE,5
+Ugaritic,ugar1238,ANEA,Northwest Semitic,ancient,35.6,35.78,TRUE,FALSE,FALSE,6
+Ancient South Arabian,sayh1236,ANEA,Central Semitic,ancient,15.42,45.35,TRUE,FALSE,FALSE,4
+Old Elamite,elam1244,ANEA,Elamite,ancient,31.18,48.23,FALSE,FALSE,FALSE,4
+Achaemenid Elamite,elam1244,ANEA,Elamite,ancient,31.18,48.23,FALSE,FALSE,FALSE,4
+Standard Biblical Hebrew,bibl1238,ANEA,Northwest Semitic,ancient,31.78,35.17,TRUE,FALSE,FALSE,5
+Mishnaic Hebrew,hebr1246,ANEA,Northwest Semitic,ancient,31.78,35.17,TRUE,FALSE,FALSE,4
+Amorite,amor1239,ANEA,Northwest Semitic,ancient,34.71,40.72,TRUE,FALSE,FALSE,4
+Hurrian,hurr1240,ANEA,Hurro-Urartian,Sum/Hurr,40.73,43.32,TRUE,TRUE,TRUE,11
+Sumerian,sume1241,ANEA,Sumerian,Sum/Hurr,31.3,45.67,TRUE,TRUE,TRUE,16
